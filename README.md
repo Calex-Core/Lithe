@@ -1,0 +1,2 @@
+# Lithe
+Lithe blockchain codebase
